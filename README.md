@@ -1,5 +1,7 @@
 # vuex-test
 
+[Visit the live Project Here](https://vuex.asharafali.com/ "Vuex Todo Manager")
+
 ## Project setup
 ```
 npm install
